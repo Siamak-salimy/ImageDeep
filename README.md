@@ -4,4 +4,5 @@ Second Day :
      
   
  Session 3 : Deeplearning
+      pytorch_quick_start 
  
