@@ -5,6 +5,6 @@ Second Day :</br>
   
  Session 3 : Deeplearning </br> 
       pytorch_quick_start </br> 
- Gan</br>  
+ Gan</br>   
  Yolo </br>   
  ..
