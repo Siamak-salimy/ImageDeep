@@ -7,5 +7,5 @@ Second Day :</br>
       pytorch_quick_start </br> 
  Gan</br>   
  Yolo </br>   
- ..
+ .. 
  
